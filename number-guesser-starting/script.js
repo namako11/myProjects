@@ -31,7 +31,7 @@ const compareGuesses = (userInput, computer, target) => {
         return true;
     } else if (Math.abs(computer - target) < Maths.abs(userInput - target)) {
         return false;
-    } else ((userInput === target) & (computer === target)); {
+    } else ((userInput === target) && (computer === target)); {
         return true;
     };
 }
