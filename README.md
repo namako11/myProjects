@@ -1,6 +1,5 @@
-# myProjects
+# My Projects
 
-Projects I work on to practice coding. 
+## Codecademy Projects
 
-The first project is a numberGuesser game written in javaScript.
-The project is part of my course in Codecademy.
+This repository stores all my project solutions from my Fullstack Course at Codecademy.
